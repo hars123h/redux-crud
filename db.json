@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "name": "Harsh",
+      "address": "London",
+      "email": "harsh@gmail.com",
+      "contact": "6387522891",
+      "id": 1
+    },
+    {
+      "name": "Punit Tripathi",
+      "address": "Delhi",
+      "email": "punit@gmail.com",
+      "contact": "6387522892",
+      "id": 2
+    },
+    {
+      "name": "Raman",
+      "address": "Banaras",
+      "email": "raman@gmail.com",
+      "contact": "6387522893",
+      "id": 3
+    },
+    {
+      "name": "Mansoon Pandey",
+      "email": "mansoon@gmail.com",
+      "contact": "6387522895",
+      "address": "Delhi",
+      "id": 5
+    },
+    {
+      "name": "Ravi Jais",
+      "email": "ravi@gmail.com",
+      "contact": "6387522894",
+      "address": "Gajipur",
+      "id": 6
+    },
+    {
+      "name": "Shubham",
+      "email": "shubham@gmail.com",
+      "contact": "63875228963",
+      "address": "Banaras",
+      "id": 7
+    },
+    {
+      "name": "Atul Kumar",
+      "email": "atul@gmail.com",
+      "contact": "6387522898",
+      "address": "mansoon  waaaala",
+      "id": 8
+    }
+  ]
+}
